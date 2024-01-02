@@ -23,11 +23,14 @@ Welcome to the Excel Wonderland! 🚀 Unlock the power of Excel with this reposi
 
 6. CONCATENATE and other text functions:
     * Delve into a variety of supplemental functions for efficient text manipulation
+***
 
 ### How to Use This Repository:
 
 📂 Navigate through the organized excel files for each function.
+
 🚀 Apply your newfound skills to real-world scenarios and boost your data analysis capabilities.
+***
 
 💻✨ *Unleashing the power of formulas- Happy Excel-ing!*   
 
